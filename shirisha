@@ -5,3 +5,4 @@ To read the file : cat pom.xml
 Type : cd src/ , go the src file you will find main and test files : cd main/
 Then for goimg to pom.mxl file for compiling a program : cd ../../../  after then we use click cd ..
 To compile the program : mvn compile
+this is my first jenkins program
